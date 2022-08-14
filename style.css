@@ -1,0 +1,180 @@
+h1{
+    color: yellowgreen;
+    font-size: 100px;
+    padding: 10px 10px 5px 5px;
+    font-family: Cinzel,sans-serif;
+
+}
+p{
+    color: rgba(0, 134, 7, 0.801);
+    font-size: 40px;
+    font-family: Zen Dots, sans-serif;
+}
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    color: yellowgreen;
+}
+h2{
+    color: yellowgreen;
+    font-size: 50px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    border: 20px;
+    border-color: black;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.name{
+    border: 1px solid yellow;
+    border-radius: 5px;
+    border-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name{
+    border: 2px  yellow;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+
+.logo{
+    width: 400px;
+    margin-top: 25px;
+}
+.rica{
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.gust{
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.gui{
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.form{
+    border: 5px solid;
+    border-radius: 50px;
+    color: red;
+
+}
+
+.obs{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.header{
+    border: 2.5px solid red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px;
+    border-right: 0;
+    border-left: 0;
+    background-color: black;
+}
+
+.oro{
+    width: 250px;
+    align-items: center;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    border-right: 0px;
+    border-left: 0; 
+    background-image: url(graf.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+}
+.h2{
+    font-family:Cinzel,sans-serif ;
+}
+
+.pass{
+    width: 100px;
+    cursor: pointer;
+    color: black;
+    border: 5px solid yellowgreen;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.h21{
+    font-family:Cinzel,sans-serif
+}
+
+.in{
+    width: 500px;
+    cursor: pointer;
+    color: black;
+    border: 5px solid yellowgreen;
+    border-radius: 50px;
+    background-color: white;
+}
+.h22{
+    font-family: Cinzel,sans-serif;
+    color: yellowgreen;
+}
+.head2{
+    border: 2.5px solid red;
+    border-radius: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    
+}
+
+.seta{
+    width: 50px; 
+}
+.meta{
+    width: 110px;
+    border: 2.5px solid yellowgreen;
+    background-color: black;
+    border-radius: 50px;
+    text-align: center;
+    font-family: Cinzel,sans-serif;
+    cursor: pointer;
+    color: yellow;
+}
+.cont{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+    background-color: gray;
+    font-family: Zen Dots,sans-serif;
+    font-size: 30px;
+    padding: 10px 10px;
+}
+.in{
+    text-decoration: none;
+    color: yellowgreen;
+}
+

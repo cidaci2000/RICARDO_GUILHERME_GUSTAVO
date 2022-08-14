@@ -1,0 +1,101 @@
+.header{
+    font-family: Zen Dots,sans-serif;
+    font-size: 50px;
+    color: yellowgreen;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    margin: 0;
+    padding: 0;
+}
+.li{
+    margin-right: 60px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    text-align: right;
+    list-style: none;
+    border: 1.5px solid black;
+    border-radius: 20px;
+    display: inline;
+    padding: 5px 5px;
+    background-color: gray;
+    box-shadow: 10px 10px black;
+    cursor: pointer;
+    text-decoration: none;
+}
+.li2{
+    margin-left: 60px;
+    text-align: left;
+    list-style: none;
+    display: flex;
+    display: inline;
+    justify-content: left;
+    align-items: center;
+    border: 1.5px solid black;
+    border-radius: 20px;
+    padding: 5px 5px;
+    background-color: gray;
+    box-shadow: 10px 10px black;
+    cursor: pointer;
+    text-decoration: none;
+}
+.dc{
+    width: 40px;
+    align-items: center;
+    text-align: center;
+}
+.zap{
+    width: 40px;
+}
+.titulo2{
+    font-family: Zen Dots,sans-serif;
+    color: yellow;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+.sub-titulo{
+    color: yellow;
+    font-family: Zen Dots,sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+div{
+    border: 2.5px solid yellow;
+    border-radius: 50px;
+    background-image: url(graf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul{
+    text-align: center;
+}
+.none{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.none2{
+    text-decoration: none;
+    color: yellowgreen;
+}
+.logo{
+    width: 100px;
+}
+.img-final{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    transform: translateX(78%);
+    margin-top: 100px;
+    margin-bottom: 10px;
+}

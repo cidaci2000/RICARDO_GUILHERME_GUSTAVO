@@ -1,0 +1,24 @@
+.video{
+    text-align: center;
+    align-items: center;
+}
+.link{
+    color: yellowgreen;
+    text-align: center;
+    display: flex ;
+    justify-content: space-between;
+}
+.img2{
+    width: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div2{
+    color: yellow;
+    width: 100px;
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}

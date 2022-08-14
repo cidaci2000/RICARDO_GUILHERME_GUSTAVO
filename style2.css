@@ -1,0 +1,56 @@
+body{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    text-align: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Cinzel,sans-serif;
+    background-image: url(graf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: yellowgreen;
+    font-size: 40px;
+    text-align: center;
+    font-family: Zen Dots,sans-serif;
+}
+
+.img{
+    width: 100px;
+}
+.header2{
+    color: yellowgreen;
+    text-align: center;
+    border: 2.5px solid yellow;
+    border-radius: 50px;
+    justify-content: space-between;
+    font-size: 40px;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.div{
+    text-align: center;
+    align-items: center;
+}
+.header3{
+    border: 2.5px solid yellow;
+    border-radius: 50px;
+    text-align: center;
+    color: yellowgreen;
+    font-size: 40px;
+    font-family: sans-serif;
+    background-color: black;
+}
+.img3{
+    width: 40px;
+}
